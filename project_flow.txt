@@ -18,4 +18,6 @@ first git was handling the data /folder not dvc will handle the data version
 9. again we did the same thing "dvc add data/"
 10. git add data.dvc .gitignore so that git can track the id of version
 11. Now "dvc commit" and "dvc push"
+12. Change in code_1.py and append new row it the data then we check changes via dvc status.
+
 
